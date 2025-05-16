@@ -1,1 +1,1 @@
-console.log("version 1 unlocked");
+console.log("version 2 unlocked");
